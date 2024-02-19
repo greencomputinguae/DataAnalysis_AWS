@@ -1,2 +1,3 @@
 # DataAnalysis_AWS
 Sagemaker Training model
+sagemaker_instance(sagemaker_instance1.ipynb)
